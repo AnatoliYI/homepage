@@ -1,0 +1,10 @@
+.alignedJustify {
+    text-align: justify;
+}
+.color.gold:before {
+    background-color: gold;
+  }
+  
+.color.red:before {
+    background-color: red;
+  }

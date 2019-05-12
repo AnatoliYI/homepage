@@ -817,7 +817,6 @@
   .color.chartreuse:before {
     background-color: chartreuse;
   }
-  
   /* Audio button */
   button.audio {
     cursor: pointer;
