@@ -5,6 +5,4 @@ It's creating for Binary-Studio-Academy.
 
 Link to [website!](https://anatoliyi.github.io/homepage/)
 
-🧙Hocus-pocus!
-
 README.md will be updating during my work.:blush:
